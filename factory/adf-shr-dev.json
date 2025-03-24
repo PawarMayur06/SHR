@@ -1,0 +1,9 @@
+{
+	"name": "adf-shr-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fae96270-ff8b-4c74-9bea-cd419771bcbd",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
